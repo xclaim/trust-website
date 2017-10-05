@@ -68,8 +68,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Trust - Ethereum Wallet # Optional - Enter your site title
+description: Trust - fast and secure Ethereum wallet that’s easy to use. # Optional - Enter your site description
 
 #
 # Google Analytics
