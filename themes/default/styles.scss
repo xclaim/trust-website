@@ -163,6 +163,29 @@ a:hover {
 }
 {% endif %}
 
+.links {
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+}
+
+.links li {
+  display: inline-block;
+  margin: 12px;
+}
+
+{% if site.social_link_color %}
+.links a {
+  text-decoration: none;
+  color: {{ site.social_link_color }};
+}
+
+.links a:focus,
+.links a:hover {
+  color: darken({{ site.social_link_color }}, 30%);
+}
+{% endif %}
+
 //
 // Device
 //
