@@ -12,21 +12,15 @@ app:
   ios_id: 1288339409 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
-  icon: # Leave blank to auto-magically populate
-  # To update use path relative to project root with no leading slash:
-  # e.g. images/app-icon-512.png
-  # 512px or greater, square
+  icon: images/app-icon-512.png
 
-  screenshot: # Leave blank to auto-magically populate
-  # To update use path relative to project root with no leading slash:
-  # e.g. images/app-screen-640x1136.png
-  # 640x1136px
+  screenshot: images/app-screen-640x1136.png
 
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: # Optional
+marketing_desc: Trust - fast and secure Ethereum wallet that’s easy to use.
 
 #
 # Social Links
@@ -63,8 +57,8 @@ device: iphone-se-silver-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: "#989898" # Optional
-background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_color: "#2e91db" # Optional
+background_image: # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
