@@ -34,12 +34,12 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
+  github: TrustWallet
   facebook:
-  twitter:
+  twitter: thetrustwallet
   pinterest:
   instagram:
-  email:
+  email: thetrustwallet@gmail.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
