@@ -1,2 +1,2 @@
 # trust-website
-Source of thetrustwallet.com
+Source of trustwalletapp.com/
