@@ -2,6 +2,40 @@
 <html lang="en-us">
 {% include head.html %}
   <body>
+
+    <div style="background-color: #3375BB;">
+        <div class="container">
+            <div class="header">
+                <nav class="navbar" role="navigation">
+                    <div class="navbar-header">
+                      <a class="header-title" href="/" target="_self">
+                        <img
+                        class="app-icon"
+                        style="min-width: 48px; max-width: 58px;"
+                        height="auto"
+                        {% if site.app.icon %} src="{{ site.app.icon }}"{% endif %}
+                      /> <span style="padding-left: 10px"><strong>Trust</strong> - Ethereum Wallet</span>
+                      </a>
+                    </div>
+                    <!--
+                    <div class="collapse navbar-collapse" id="global-nav">
+                      <div class="navbar-right">
+                        <ul class="nav navbar-nav">
+                            <li>
+                              <a href="/collections/all">Privacy Policy</a>
+                            </li>
+                            <li>
+                              <a href="https://medium.com/@trustwallet">Blog</a>
+                            </li>
+                        </ul>
+                      </div>
+                    </div>
+                  -->
+                  </nav>
+            </div>
+          </div>
+    </div>
+    
     <div class="main" role="main">
     {{ content }}
     </div>
