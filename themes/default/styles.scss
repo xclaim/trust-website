@@ -265,6 +265,14 @@ a:active {
     justify-content: center;
     align-items: center;
   }
+
+  .links {
+    padding-left: 0;
+    margin-left: -5px;
+    margin-top: 40px;
+    list-style: none;
+    display: grid;
+}
 }
 
 //
