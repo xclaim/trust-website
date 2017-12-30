@@ -10,7 +10,7 @@
 app:
   name: xClaim - Identity Wallet # REQUIRED - Enter your app name
   ios_id: 1288339409 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: com.wallet.crypto.trustapp
+  android_id: com.wallet.crypto.xClaimapp
   icon: images/app-icon-512.png
   screenshot: images/app-screen-640x1136.png
 
