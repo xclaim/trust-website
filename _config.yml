@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: Trust - Ethereum Wallet # REQUIRED - Enter your app name
+  name: xClaim - Identity Wallet # REQUIRED - Enter your app name
   ios_id: 1288339409 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.wallet.crypto.trustapp
   icon: images/app-icon-512.png
@@ -18,7 +18,7 @@ app:
 # Marketing
 #
 marketing_header: # Optional
-marketing_desc: Trust - fast and secure Ethereum wallet and ERC20 Compatible.
+marketing_desc: xClaim - Identity claims and fast and secure Ethereum ERC20 Compatible wallet.
 
 #
 # Social Links
@@ -29,7 +29,7 @@ social-links:
   github: xclaim
   reddit:
   facebook:
-  twitter: 
+  twitter:
   pinterest:
   instagram:
   email: info@carechain.io
@@ -69,13 +69,13 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: Trust - Ethereum Wallet # Optional - Enter your site title
-description: Trust - fast and secure Ethereum wallet that’s easy to use. # Optional - Enter your site description
+title: xClaim - Identity Wallet # Optional - Enter your site title
+description: xClaim - Self-Sovereign Identity and Ethereum wallet that’s easy to use. # Optional - Enter your site description
 
 #
 # Google Analytics
 #
-google_analytics: UA-107603827-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-111751338-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # iTunes Affiliate Program
