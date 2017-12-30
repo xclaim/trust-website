@@ -1,2 +1,2 @@
-# trust-website
-Source of trustwalletapp.com/
+# xclaim-website
+Source of xclaim.network/
